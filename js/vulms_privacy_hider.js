@@ -9,10 +9,10 @@ $('.h2').css({
 });
 $('.h2').text('Follow the Track and Trend');
 
-$('.m-topbar__nav-wrapper ul:first-child img').attr('src', 'https://forums.developer.apple.com/forums/build-06102022-1/public/assets/avatars/1095.png');
-$('.m-topbar__nav-wrapper ul:last-child img').attr('src', 'https://forums.developer.apple.com/forums/build-06102022-1/public/assets/avatars/1095.png');
+$('.m-topbar__nav-wrapper ul:first-child img').attr('src', 'https://github.com/imgul/vulms-enhancer-browser-extension/blob/main/img/avatar.png?raw=true');
+$('.m-topbar__nav-wrapper ul:last-child img').attr('src', 'https://github.com/imgul/vulms-enhancer-browser-extension/blob/main/img/avatar.png?raw=true');
 
-$('.m-brand__logo img:first-child').attr('src', 'https://www.nicepng.com/png/detail/90-908050_right-click-to-free-download-this-logo-of.png');
+$('.m-brand__logo img:first-child').attr('src', 'https://github.com/imgul/vulms-enhancer-browser-extension/blob/main/img/blockchain-logo.png?raw=true');
 $('.m-brand__logo img:first-child').css({
     'width': '150px',
     'margin-top': '12px'
@@ -44,4 +44,4 @@ $('.m-topbar .m-topbar__nav.m-nav > .m-nav__item > span.m-nav__link-text').html(
 $('.m-card-user.m-card-user--skin-dark .m-card-user__details .m-card-user__name').text('VIRTUAL STAR')
 $('.m-card-user.m-card-user--skin-dark .m-card-user__details .m-card-user__email').text('Passionate Student')
 
-$('img.m-widget19__img').attr('src', 'https://seeklogo.com/images/B/blockchain-logo-A0FE252BA6-seeklogo.com.png');
+$('img.m-widget19__img').attr('src', 'https://github.com/imgul/vulms-enhancer-browser-extension/blob/main/img/blockchain-b-logo.png?raw=true');
