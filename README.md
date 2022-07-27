@@ -5,6 +5,12 @@ A chrome extension for enhancing VULMS styles.
 
 This includes the interesting stuff regarding the front-end of LMS.
 
+# 📸 Screenshots
+
+![Home Page](https://github.com/imgul/vulms-enhancer-browser-extension/blob/main/img/screenshot-home.png)
+
+![Home Page Profile Tab](https://github.com/imgul/vulms-enhancer-browser-extension/blob/main/img/screenshot-profile.png)
+
 # ✨ Features
 
 - Privacy hidden
